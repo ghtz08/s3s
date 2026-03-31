@@ -1,5 +1,11 @@
 beautifulsoup4
+certifi
+charset-normalizer
+idna
 msgpack_python
 packaging
 pymmh3
 requests
+soupsieve
+typing_extensions
+urllib3
